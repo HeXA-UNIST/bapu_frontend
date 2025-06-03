@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #00CD80;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -37,11 +37,15 @@
   }
 }
 
-.splashlogo {
+.splash {
   width: 100vw;
   height: 100vh;
   background-color: #00CD80;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.splashlogo {
+  width: 340px;
 }

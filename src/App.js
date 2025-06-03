@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import SplashScreen from './components/SplashScreen';
 import Home from './pages/Home';
-import logo from './assets/logo.svg';
 import './App.css';
 
 function App() {
